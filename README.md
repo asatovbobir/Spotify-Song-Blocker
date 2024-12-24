@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Spotify Song Blocker is a Google Chrome extension designed to automatically skip specific songs on Spotify's web player. Users can block unwanted songs by adding their titles to a block list, ensuring a seamless and personalized listening experience. I created this due to boredom. (Works for the most part) Feel free to contribute or imrpove upon it.
+The Spotify Song Blocker is a Google Chrome extension designed to automatically skip specific songs on Spotify's web player. Users can block unwanted songs by adding their titles to a block list, ensuring a seamless and personalized listening experience. I created this due to boredom. (It works for the most part) Feel free to contribute or improve upon it.
 
 
 ## Features
