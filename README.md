@@ -19,7 +19,7 @@ The Spotify Song Blocker is a Google Chrome extension designed to automatically 
 
 ## Installation
 
-* Download via https://chromewebstore.google.com/detail/spotify-song-blocker/jpbklcgjljdneoofjfkjblmkeanejbme or:
+Download via https://chromewebstore.google.com/detail/spotify-song-blocker/jpbklcgjljdneoofjfkjblmkeanejbme or:
 
 * Clone or download the repository.
 
